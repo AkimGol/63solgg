@@ -1,0 +1,24 @@
+{
+    "tokens": {
+        "SOL": {
+            "address": "So11111111111111111111111111111111111111111",
+            "decimal": 9
+        },
+        "WSOL": {
+            "address": "So11111111111111111111111111111111111111112",
+            "decimal": 9
+        },
+        "USDC": {
+            "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "decimal": 6
+        },
+        "Fartcoin": {
+            "address": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+            "decimal": 6
+        },
+        "BONK": {
+            "address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+            "decimal": 5
+        }
+    }
+}
